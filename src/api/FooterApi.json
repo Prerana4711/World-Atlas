@@ -1,0 +1,17 @@
+[
+    {
+    "icon":"MdPlace",
+    "title":"Find us",
+    "detail": "Noida City Center"
+    },
+    {
+    "icon":"IoCallSharp",
+    "title":"Call us",
+    "detail": "+91 7307207668"
+    },
+    {
+    "icon":"TbMailPlus",
+    "title":"Mail us",
+    "detail": "pgballia97@gmail.com"
+    }
+]
