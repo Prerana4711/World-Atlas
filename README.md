@@ -13,4 +13,4 @@ Interactive country explorer app.
 React.js | REST Countries API | JavaScript | CSS3
 
 ## Live Demo
-(https://worldtlasa.netlify.app/))
+https://worldtlasa.netlify.app/
